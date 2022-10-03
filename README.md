@@ -6,8 +6,8 @@ Google Package Gapps é um aplicativo feito para entusiastas em modificação do
 
 ### Downloads
 - Por enquanto o aplicativo está disponível para download através do github, mas será disponibizado em breve na google play store.
--- link1, link2
-
+-- Consulte a aba (Releases) para ver as versões disponíveis
+ou abra este link e faça o download: https://github.com/AndersonLeandrog/GoogleGappsPackage/releases/tag/1.5.3
 ### Print Screens
 - image1, image2, image3
 
